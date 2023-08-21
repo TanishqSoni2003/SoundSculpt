@@ -13,16 +13,22 @@ pinned: true
 <p align="center">
   <img src="img/logo_moseca.png" alt="logo" width="70" />
 </p>
+
 <h2 align="center">SoundSculpt</h1>
+
 <p align="center">Music Source Separation & Karaoke</p>
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ODoK3VXajprNbskqy7G8P1h-Zom92TMA?usp=sharing)
+
 <a href="https://huggingface.co/spaces/fabiogra/SoundSculpt">
 <img src="https://img.shields.io/badge/🤗%20Hugging%20Face-Spaces-blue"
 alt="Hugging Face Spaces"></a>
+
 <a href="https://huggingface.co/spaces/fabiogra/SoundSculpt/discussions?docker=true">
+	
 <img src="https://img.shields.io/badge/-Docker%20Image-blue?logo=docker&labelColor=white"
 alt="Docker"></a><a href="https://www.buymeacoffee.com/fabiogra">
+
 <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee--yellow.svg?logo=buy-me-a-coffee&logoColor=orange&style=social"
 alt="Buy me a coffee"></a>
 
