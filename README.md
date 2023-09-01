@@ -63,7 +63,7 @@ pip install -r requirements.txt
 ```
 set the `PYTHONPATH` to the root folder:
 ```bash
-export PYTHONPATH=path/to/moseca
+export PYTHONPATH=path/to/SoundSclupt
 ```
 download the vocal remover model:
 ```bash
