@@ -67,7 +67,7 @@ export PYTHONPATH=path/to/moseca
 ```
 download the vocal remover model:
 ```bash
-wget --progress=bar:force:noscroll https://huggingface.co/fabiogra/baseline_vocal_remover/resolve/main/baseline.pth
+wget --progress=bar:force:noscroll https://huggingface.co/tanishq02/baseline_vocal_remover/blob/main/baseline.pth
 ```
 then run the app with:
 ```bash
