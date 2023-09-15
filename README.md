@@ -133,7 +133,7 @@ Now you can enjoy them anytime, anywhere!
 ### Where can I find the code for SoundSculpt?
 
 The code forSoundSculpt is readily available on
-[GitHub](https://github.com/fabiogra/moseca) 
+[GitHub](https://github.com/TanishqSoni2003/SoundSculpt) 
 
 ------
 ## Disclaimer
